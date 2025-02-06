@@ -43,6 +43,7 @@ const Footer = () => {
               </div>
             </div>
             {/* Footer Links  */}
+            {/* links */}
             <div className="grid grid-cols-2 md:grid-cols-3 md:col-span-3 md:ml-14">
               <div className="py-8 px-4">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-5">
