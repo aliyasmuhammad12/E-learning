@@ -38,7 +38,7 @@ const Footer = () => {
                   <FaFacebook className="text-3xl" />
                 </a>
                 <a href="#" className="hover:text-secondary duration-200">
-                  <FaLinkedin className="text-3xl" />
+                  <FaLinkedin className='text-3xl' />
                 </a>
               </div>
             </div>
@@ -99,7 +99,7 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-              <div className="py-8 px-4">
+              <div className='py-8 px-4'>
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-5">
                   Company Links
                 </h1>
@@ -120,7 +120,7 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:text-secondary duration-200">
+                    <a href="#" className='hover:text-secondary duration-200'>
                       Login
                     </a>
                   </li>
